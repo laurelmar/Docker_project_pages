@@ -1,0 +1,10 @@
+# Site Settings
+
+title: "Arch Project"
+
+# Author Info
+
+author: Laurel Martich
+email: 
+
+exclude: [README.md]
