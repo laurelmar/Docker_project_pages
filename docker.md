@@ -39,6 +39,11 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
 ```
 
+### Creating the docke compose file
+![Alt text](image.png)
+
+
+
 Docker compose
 ```shell
  nano docker compose up -d
