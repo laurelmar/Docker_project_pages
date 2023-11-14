@@ -8,10 +8,6 @@ Links/resources: https://docs.docker.com/engine/install/ubuntu/ , https://www.ho
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
 ```
 
-```shell
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-```
-
 Update apt-get
 
 ```shell
