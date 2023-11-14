@@ -30,6 +30,7 @@ Create a directory for the Docker GPG key:
 ```shell
 sudo mkdir -p /etc/apt/keyrings
 ```
+Change permssions
 ```shell
 sudo chmod a+r /etc/apt/keyrings/docker.gpg
 ```
