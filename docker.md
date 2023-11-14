@@ -40,6 +40,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 ```
 
 ### Creating the docke compose file
+I got really hung up on this because of syntax but eventually thing was my result.
 ![Alt text](image.png)
 
 
